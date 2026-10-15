@@ -4,7 +4,8 @@ Listado local de palabras reservadas de PHP, organizado por categoría. No requi
 
 ## Cómo ejecutar
 
-Pendiente de documentar
+Abrir index.html en el navegador (doble clic).
+Requiere un navegador moderno
 
 ## Estructura
 
