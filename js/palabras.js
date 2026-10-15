@@ -41,5 +41,8 @@ const PALABRAS = [
   { palabra: "const", categoria: "otros", descripcion: "Declara una constante." },
   { palabra: "global", categoria: "otros", descripcion: "Da acceso a una variable del ámbito global." },
   { palabra: "isset", categoria: "otros", descripcion: "Comprueba si una variable existe y no es null." },
-  { palabra: "empty", categoria: "otros", descripcion: "Comprueba si una variable está vacía." }
+  { palabra: "empty", categoria: "otros", descripcion: "Comprueba si una variable está vacía." },
+  { palabra: "protected", categoria: "clases", descripcion: "Permite el acceso desde la clase y sus clases derivadas." },
+  { palabra: "static", categoria: "clases", descripcion: "Declara propiedades o métodos asociados a la clase." },
+  { palabra: "return", categoria: "funciones", descripcion: "Devuelve un valor y termina la ejecución de una función." }
 ];
