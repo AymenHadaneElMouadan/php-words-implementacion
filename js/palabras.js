@@ -43,6 +43,11 @@ const PALABRAS = [
   { palabra: "isset", categoria: "otros", descripcion: "Comprueba si una variable existe y no es null." },
   { palabra: "empty", categoria: "otros", descripcion: "Comprueba si una variable está vacía." },
   { palabra: "protected", categoria: "clases", descripcion: "Permite el acceso desde la clase y sus clases derivadas." },
+<<<<<<< HEAD
   { palabra: "static", categoria: "clases", descripcion: "Declara miembros asociados a la clase y no a sus instancias." },
   { palabra: "readonly", categoria: "clases", descripcion: "Declara una propiedad que solo puede inicializarse una vez." }
+=======
+  { palabra: "static", categoria: "clases", descripcion: "Declara propiedades o métodos asociados a la clase." },
+  { palabra: "return", categoria: "funciones", descripcion: "Devuelve un valor y termina la ejecución de una función." }
+>>>>>>> mas-palabras
 ];
