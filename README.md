@@ -17,3 +17,6 @@ Requiere un navegador moderno
 - `notas.txt`: notas de la actividad.
 
 ## Autoría
+
+
+## Autoría 2.0
