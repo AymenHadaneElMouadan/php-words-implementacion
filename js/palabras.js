@@ -46,5 +46,10 @@ const PALABRAS = [
   { palabra: "static", categoria: "clases", descripcion: "Declara miembros asociados a la clase y no a sus instancias." },
   { palabra: "readonly", categoria: "clases", descripcion: "Declara una propiedad que solo puede inicializarse una vez." },
   { palabra: "static", categoria: "clases", descripcion: "Declara propiedades o métodos asociados a la clase." },
-  { palabra: "return", categoria: "funciones", descripcion: "Devuelve un valor y termina la ejecución de una función." }
+  { palabra: "return", categoria: "funciones", descripcion: "Devuelve un valor y termina la ejecución de una función." },
+  { palabra: "clone", categoria: "clases", descripcion: "Crea una copia de un objeto." },
+  { palabra: "new", categoria: "clases", descripcion: "Crea una instancia de una clase." },
+  { palabra: "instanceof", categoria: "clases", descripcion: "Comprueba si un objeto pertenece a una clase o interfaz." },
+  { palabra: "unset", categoria: "otros", descripcion: "Destruye una variable especificada." },
+  { palabra: "list", categoria: "otros", descripcion: "Asigna variables como si fueran un array en una sola operación." }
 ];
