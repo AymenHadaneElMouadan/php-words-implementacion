@@ -15,3 +15,5 @@ Requiere un navegador moderno
 - `js/palabras.js`: palabras y descripciones.
 - `js/app.js`: renderizado y aplicación de filtros.
 - `notas.txt`: notas de la actividad.
+
+## Autoría
